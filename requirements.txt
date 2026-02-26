@@ -1,0 +1,23 @@
+# AI Research Intelligence System — Python dependencies
+
+# HTTP & APIs
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Data visualization
+matplotlib>=3.8.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# Google Sheets
+google-auth>=2.23.0
+google-api-python-client>=2.100.0
+
+# Scheduling (for local cron alternative)
+schedule>=1.2.0
+
+# Modal deployment (optional — cloud runner)
+modal>=0.62.0

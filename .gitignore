@@ -1,0 +1,22 @@
+# Secrets
+.env
+credentials.json
+*.json.key
+
+# Generated outputs
+temp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
